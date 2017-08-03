@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "department": "DEV",
+  "name": "Gavin",
+  "gender": 1,
+  "email": "gavin@test.com",
+  "phone": "13616161616"
+},{
+  "id": 2,
+  "department": "DEV",
+  "name": "David",
+  "gender": 1,
+  "email": "david@test.com",
+  "phone": "13619191919"
+},{
+  "id": 3,
+  "department": "QA",
+  "name": "Cony",
+  "gender": 2,
+  "email": "cony@test.com",
+  "phone": "13615151515"
+},{
+  "id": 4,
+  "department": "HR",
+  "name": "Niub",
+  "gender": 2,
+  "email": "niub@test.com",
+  "phone": "13612121212"
+}]

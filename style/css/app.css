@@ -1,0 +1,29 @@
+.admin-nav {
+    background-color: #3b5a82;
+    color: white;
+    font-family: initial;
+    border-bottom: 4px solid #000 !important;
+}
+
+.admin-nav .admin-logo {
+    font-size: 2.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    font-weight: bolder;
+    color: cornsilk;
+}
+
+.admin-nav .nav-item {
+    margin-left: 1em;
+    font-size: 2em;
+}
+
+.nav-active, .nav-item:hover {
+    text-decoration: underline;
+}
+
+.admin-nav .admin-welcome{
+    font-size: 1.2em;
+    width: auto;
+    margin-right: 2em;
+}
